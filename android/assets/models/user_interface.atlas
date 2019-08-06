@@ -1,0 +1,55 @@
+
+user_interface.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ammo
+  rotate: false
+  xy: 518, 262
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+armor
+  rotate: false
+  xy: 260, 70
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+buyzone
+  rotate: false
+  xy: 260, 52
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+damageindicator
+  rotate: false
+  xy: 2, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 2, 70
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 36
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+radar
+  rotate: false
+  xy: 518, 196
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

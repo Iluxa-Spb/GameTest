@@ -1,0 +1,132 @@
+
+atlas_player2.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1_gun
+  rotate: false
+  xy: 596, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+1_gun
+  rotate: false
+  xy: 662, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+1_gun
+  rotate: false
+  xy: 728, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+2_arm
+  rotate: false
+  xy: 2, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+2_arm
+  rotate: false
+  xy: 68, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+2_arm_reload
+  rotate: false
+  xy: 794, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+2_arm_reload
+  rotate: false
+  xy: 860, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+2_arm_reload
+  rotate: false
+  xy: 926, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+2_arm_reload
+  rotate: false
+  xy: 992, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+2_body
+  rotate: false
+  xy: 530, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+2_legs
+  rotate: false
+  xy: 134, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+2_legs
+  rotate: false
+  xy: 200, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+2_legs
+  rotate: false
+  xy: 266, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+2_legs
+  rotate: false
+  xy: 332, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+2_legs
+  rotate: false
+  xy: 398, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+2_legs
+  rotate: false
+  xy: 464, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: 1
+bullet
+  rotate: false
+  xy: 1058, 68
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: 2

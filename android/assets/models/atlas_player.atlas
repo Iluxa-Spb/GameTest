@@ -1,0 +1,286 @@
+
+atlas_player.png
+size: 140,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-1
+  rotate: false
+  xy: 36, 4
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-2
+  rotate: false
+  xy: 46, 4
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-3
+  rotate: false
+  xy: 56, 4
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-4
+  rotate: false
+  xy: 66, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-5
+  rotate: false
+  xy: 76, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-6
+  rotate: false
+  xy: 116, 36
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-7
+  rotate: false
+  xy: 86, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+arm-8
+  rotate: false
+  xy: 106, 18
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+body-1
+  rotate: false
+  xy: 104, 108
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-2
+  rotate: false
+  xy: 70, 56
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-3
+  rotate: false
+  xy: 36, 58
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-4
+  rotate: false
+  xy: 70, 92
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-5
+  rotate: false
+  xy: 36, 22
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-6
+  rotate: false
+  xy: 104, 126
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-7
+  rotate: false
+  xy: 36, 40
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+body-8
+  rotate: false
+  xy: 70, 74
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+head-1
+  rotate: false
+  xy: 70, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-2
+  rotate: false
+  xy: 104, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-3
+  rotate: false
+  xy: 70, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-4
+  rotate: false
+  xy: 122, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-5
+  rotate: false
+  xy: 104, 90
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-6
+  rotate: false
+  xy: 88, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-7
+  rotate: false
+  xy: 88, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+head-8
+  rotate: false
+  xy: 122, 90
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+legs-1
+  rotate: false
+  xy: 2, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-2
+  rotate: false
+  xy: 36, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-3
+  rotate: false
+  xy: 2, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-4
+  rotate: false
+  xy: 2, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-5
+  rotate: false
+  xy: 70, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-6
+  rotate: false
+  xy: 2, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-7
+  rotate: false
+  xy: 36, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+legs-8
+  rotate: false
+  xy: 36, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shoulder-1
+  rotate: false
+  xy: 106, 36
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-2
+  rotate: false
+  xy: 126, 36
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-3
+  rotate: false
+  xy: 116, 54
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-4
+  rotate: false
+  xy: 116, 18
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-5
+  rotate: false
+  xy: 126, 54
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-6
+  rotate: false
+  xy: 96, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-7
+  rotate: false
+  xy: 106, 54
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shoulder-8
+  rotate: false
+  xy: 126, 18
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
